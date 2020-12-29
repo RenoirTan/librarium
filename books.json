@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Trump: The Art of the Deal",
+    "authors": [
+      "Donald John Trump",
+      "Tony Schwartz"
+    ],
+    "isbn": "0-394-55528-7",
+    "genres": [
+      "Business"
+    ],
+    "pages": 372,
+    "words": 86855,
+    "pub_date": {
+      "year": 1987,
+      "month": 11,
+      "day": 1
+    },
+    "publisher": ["Random House"]
+  },
+  {
+    "name": "A Pickle for the Knowing Ones",
+    "authors": [
+      "Timothy Dexter"
+    ],
+    "isbn": "978-0-344-45584-1",
+    "genres": [
+      "Politics"
+    ],
+    "pages": 37,
+    "words": null,
+    "pub_date": {
+      "year": 1797,
+      "month": 1,
+      "day": 22
+    },
+    "publisher": ["Random House"]
+  }
+]
